@@ -59,6 +59,8 @@ p {
 	transition-property: background-color, color;
 }
 .cta:hover {
+	transition: 0.25s ease;
+	transition-property: background-color, color;
 	color: white;
 	background-color: crimson;
 }
